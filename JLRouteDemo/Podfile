@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'JLRouteDemo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for JLRouteDemo
+pod 'JLRoutes', '~> 2.1'
+
+
+# Model
+pod 'YYModel', '~> 1.0.4'
+pod 'YYCache', '~> 1.0.4'
+pod 'YYCategories', '~> 1.0.4'
+
+
+end

@@ -1,0 +1,30 @@
+PODS:
+  - JLRoutes (2.1)
+  - YYCache (1.0.4)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - JLRoutes (~> 2.1)
+  - YYCache (~> 1.0.4)
+  - YYCategories (~> 1.0.4)
+  - YYModel (~> 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - JLRoutes
+    - YYCache
+    - YYCategories
+    - YYModel
+
+SPEC CHECKSUMS:
+  JLRoutes: d755245322b94227662ea3e43492fdca94e05c5b
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 510a5b2a5567ce1c17595dce5eb5a59689ed27ae
+
+COCOAPODS: 1.8.4

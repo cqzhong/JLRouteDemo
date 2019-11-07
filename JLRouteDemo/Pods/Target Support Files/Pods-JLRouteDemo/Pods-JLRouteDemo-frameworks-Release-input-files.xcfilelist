@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-JLRouteDemo/Pods-JLRouteDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/JLRoutes/JLRoutes.framework
+${BUILT_PRODUCTS_DIR}/YYCache/YYCache.framework
+${BUILT_PRODUCTS_DIR}/YYCategories/YYCategories.framework
+${BUILT_PRODUCTS_DIR}/YYModel/YYModel.framework
